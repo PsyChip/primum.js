@@ -1,2 +1,2 @@
 # primum.js
-Professional web application boilerplate for node.js
+Lightweight web application boilerplate for node.js
